@@ -20,6 +20,11 @@ ON=1
 OFF=0
 =default
 ```
+Or, when dealing with spaces within the key use an escape character
+
+```
+key\ key=value
+```
 
 | input      | output    |
 |------------|-----------|
